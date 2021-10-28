@@ -1,0 +1,176 @@
+[10-Jan-2020 06:43:28 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/brothers/public_html/krooki/application/modules/admin/views/category/add.php on line 51
+[15-Jan-2020 07:08:10 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/brothers/public_html/krooki/application/modules/home/controllers/Home.php on line 40
+[16-Jan-2020 05:51:08 UTC] PHP Fatal error:  Cannot redeclare Property_model::$property_table in /home/brothers/public_html/krooki/application/modules/property/models/Property_model.php on line 5
+[16-Jan-2020 05:51:10 UTC] PHP Fatal error:  Cannot redeclare Property_model::$property_table in /home/brothers/public_html/krooki/application/modules/property/models/Property_model.php on line 5
+[26-Jan-2020 22:33:15 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/caworksi/public_html/krooki/application/libraries/REST_Controller_Definitions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/caworksi/public_html/krooki/application/libraries/REST_Controller.php on line 22
+[26-Jan-2020 22:33:59 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/caworksi/public_html/krooki/application/libraries/REST_Controller_Definitions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/caworksi/public_html/krooki/application/libraries/REST_Controller.php on line 22
+[26-Jan-2020 22:34:23 America/Chicago] PHP Fatal error:  Class 'REST_Controller' not found in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 7
+[26-Jan-2020 22:35:19 America/Chicago] PHP Fatal error:  Class 'REST_Controller' not found in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 7
+[26-Jan-2020 22:35:38 America/Chicago] PHP Fatal error:  Trait 'REST_Controller' not found in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 9
+[26-Jan-2020 22:48:07 America/Chicago] PHP Fatal error:  Call to a member function helper() on null in /home/caworksi/public_html/krooki/system/libraries/Form_validation.php on line 147
+[26-Jan-2020 22:57:31 America/Chicago] PHP Fatal error:  Call to a member function helper() on null in /home/caworksi/public_html/krooki/system/libraries/Form_validation.php on line 147
+[26-Jan-2020 23:04:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 45
+[26-Jan-2020 23:09:48 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:12:00 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:13:19 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:14:19 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:14:26 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:14:50 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 45
+[26-Jan-2020 23:15:49 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:19:37 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:20:10 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:38:54 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 30
+[26-Jan-2020 23:39:19 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 30
+[26-Jan-2020 23:39:31 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 30
+[26-Jan-2020 23:40:54 America/Chicago] PHP Fatal error:  Function name must be a string in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 30
+[26-Jan-2020 23:44:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{' in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 55
+[26-Jan-2020 23:45:46 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:49:58 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:52:44 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:57:10 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:57:15 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:57:31 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:58:12 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[26-Jan-2020 23:59:14 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 63
+[27-Jan-2020 00:01:33 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 31
+[27-Jan-2020 00:02:16 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 32
+[27-Jan-2020 00:03:50 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 31
+[27-Jan-2020 00:03:53 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 31
+[27-Jan-2020 00:04:08 America/Chicago] PHP Fatal error:  Call to a member function where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 31
+[27-Jan-2020 00:05:32 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 32
+[27-Jan-2020 00:08:38 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:10:29 America/Chicago] PHP Fatal error:  Class User cannot extend from trait Restserver\Libraries\REST_Controller in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 9
+[27-Jan-2020 00:10:42 America/Chicago] PHP Fatal error:  Class 'REST_Controller' not found in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 9
+[27-Jan-2020 00:11:34 America/Chicago] PHP Fatal error:  Class 'REST_Controller' not found in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 9
+[27-Jan-2020 00:12:21 America/Chicago] PHP Fatal error:  Class 'REST_Controller' not found in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 9
+[27-Jan-2020 00:12:46 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:14:40 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:17:26 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:17:52 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:21:45 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/caworksi/public_html/krooki/application/libraries/REST_Controller.php on line 6
+[27-Jan-2020 00:21:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/caworksi/public_html/krooki/application/libraries/REST_Controller.php on line 25
+[27-Jan-2020 00:22:22 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:36:27 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:38:54 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:43:33 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/user/controllers/User.php on line 18
+[27-Jan-2020 00:46:20 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/User1.php on line 33
+[27-Jan-2020 00:46:33 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/user/controllers/User.php on line 18
+[27-Jan-2020 00:46:43 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:49:11 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:50:08 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:51:35 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 36
+[27-Jan-2020 00:51:42 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 36
+[27-Jan-2020 00:52:05 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:52:45 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:55:24 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:55:36 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:57:03 America/Chicago] PHP Fatal error:  Cannot redeclare Restserver\Libraries\REST_Controller::__construct() in /home/caworksi/public_html/krooki/application/libraries/REST_Controller.php on line 267
+[27-Jan-2020 00:57:03 America/Chicago] PHP Fatal error:  Class 'CI_Exceptions' not found in /home/caworksi/public_html/krooki/system/core/Common.php on line 196
+[27-Jan-2020 00:57:53 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 33
+[27-Jan-2020 00:59:52 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 29
+[27-Jan-2020 01:00:16 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 29
+[27-Jan-2020 01:01:48 America/Chicago] PHP Fatal error:  Call to a member function get_where() on null in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 29
+[27-Jan-2020 01:09:50 America/Chicago] PHP Fatal error:  Call to undefined method User1::set_response() in /home/caworksi/public_html/krooki/application/controllers/User1.php on line 65
+[27-Jan-2020 01:11:29 America/Chicago] PHP Fatal error:  Call to undefined method User::set_response() in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 67
+[27-Jan-2020 01:19:53 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 53
+[27-Jan-2020 01:49:15 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/property/controllers/Property.php on line 24
+[27-Jan-2020 02:17:24 America/Chicago] PHP Fatal error:  Call to undefined method User_model::save_otp() in /home/caworksi/public_html/krooki/application/controllers/api/User.php on line 64
+[27-Jan-2020 03:00:48 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/user/controllers/User.php on line 63
+[27-Jan-2020 05:06:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_categories() on null in /home/caworksi/public_html/krooki/application/controllers/api/Service.php on line 28
+[27-Jan-2020 05:06:30 America/Chicago] PHP Fatal error:  Call to a member function input() on array in /home/caworksi/public_html/krooki/application/controllers/api/Service.php on line 30
+[27-Jan-2020 05:28:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 231
+[27-Jan-2020 05:30:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 237
+[27-Jan-2020 21:36:55 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/admin/controllers/Admin.php on line 16
+[27-Jan-2020 21:38:13 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/admin/controllers/Admin.php on line 18
+[27-Jan-2020 21:40:05 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/admin/controllers/Admin.php on line 19
+[27-Jan-2020 22:45:40 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/user/controllers/User.php on line 63
+[27-Jan-2020 22:46:56 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/modules/user/controllers/User.php on line 18
+[27-Jan-2020 22:52:30 America/Chicago] PHP Fatal error:  Class 'Pages_model' not found in /home/caworksi/public_html/krooki/application/third_party/MX/Loader.php on line 228
+[27-Jan-2020 23:58:41 America/Chicago] PHP Fatal error:  Call to undefined function where() in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 194
+[27-Jan-2020 23:58:53 America/Chicago] PHP Fatal error:  Call to undefined function where() in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 194
+[28-Jan-2020 00:41:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/caworksi/public_html/krooki/application/modules/property/views/detail.php on line 196
+[28-Jan-2020 01:05:10 America/Chicago] PHP Fatal error:  Call to undefined function admin_base_url() in /home/caworksi/public_html/krooki/application/modules/admin/views/pages/add.php on line 248
+[28-Jan-2020 03:00:57 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/caworksi/public_html/krooki/application/modules/admin/controllers/Pages.php on line 39
+[28-Jan-2020 03:31:25 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/caworksi/public_html/krooki/application/modules/admin/models/Pages_model.php on line 125
+[28-Jan-2020 03:32:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/caworksi/public_html/krooki/application/modules/admin/models/Pages_model.php on line 92
+[28-Jan-2020 03:33:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/caworksi/public_html/krooki/application/modules/admin/models/Pages_model.php on line 92
+[28-Jan-2020 03:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/caworksi/public_html/krooki/application/modules/admin/models/Pages_model.php on line 109
+[28-Jan-2020 03:59:43 America/Chicago] PHP Fatal error:  Call to undefined method Property_model::insert_interested_property() in /home/caworksi/public_html/krooki/application/modules/property/controllers/Property.php on line 1075
+[28-Jan-2020 04:26:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/caworksi/public_html/krooki/application/modules/admin/models/Pages_model.php on line 180
+[28-Jan-2020 22:07:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/caworksi/public_html/krooki/application/modules/property/models/Property_model.php on line 812
+[28-Jan-2020 22:08:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/caworksi/public_html/krooki/application/modules/property/models/Property_model.php on line 812
+[28-Jan-2020 22:08:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/caworksi/public_html/krooki/application/modules/property/models/Property_model.php on line 812
+[28-Jan-2020 22:19:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 21
+[28-Jan-2020 22:52:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 98
+[28-Jan-2020 23:47:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/caworksi/public_html/krooki/application/modules/property/views/favourite_properties.php on line 28
+[29-Jan-2020 00:05:27 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 304
+[29-Jan-2020 00:06:12 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 304
+[29-Jan-2020 00:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 335
+[29-Jan-2020 00:50:08 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1060
+[29-Jan-2020 00:50:24 America/Chicago] PHP Fatal error:  Call to undefined method Property_model::remove_fav_property() in /home/caworksi/public_html/krooki/application/modules/property/controllers/Property.php on line 1103
+[29-Jan-2020 01:41:55 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 311
+[29-Jan-2020 01:42:15 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 311
+[29-Jan-2020 01:43:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 342
+[29-Jan-2020 02:16:49 America/Chicago] PHP Fatal error:  Cannot redeclare Property_model::$property_type_table in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 16
+[29-Jan-2020 05:18:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1691
+[29-Jan-2020 23:04:19 America/Chicago] PHP Fatal error:  Call to undefined function strip_tags_content() in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 25
+[29-Jan-2020 23:20:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 25
+[29-Jan-2020 23:20:42 America/Chicago] PHP Fatal error:  Call to undefined function strip_tag() in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 25
+[30-Jan-2020 01:46:51 America/Chicago] PHP Fatal error:  Call to undefined function stript_tags() in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 28
+[30-Jan-2020 01:57:51 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 23
+[30-Jan-2020 02:02:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/caworksi/public_html/krooki/application/models/api/Pages_model.php on line 42
+[31-Jan-2020 01:30:08 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/modules/admin/models/Ads_model.php on line 142
+[31-Jan-2020 01:30:51 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/modules/admin/models/Ads_model.php on line 142
+[31-Jan-2020 01:31:03 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/modules/admin/models/Ads_model.php on line 141
+[31-Jan-2020 01:35:43 America/Chicago] PHP Parse error:  syntax error, unexpected ''heading_'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/caworksi/public_html/krooki/application/modules/admin/models/Ads_model.php on line 144
+[31-Jan-2020 01:42:23 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/modules/admin/models/Ads_model.php on line 142
+[31-Jan-2020 01:47:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/caworksi/public_html/krooki/application/models/api/Ads_model.php on line 26
+[31-Jan-2020 01:54:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/caworksi/public_html/krooki/application/models/api/Ads_model.php on line 26
+[31-Jan-2020 03:01:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caworksi/public_html/krooki/application/modules/admin/views/ads/edit_sidebar_content.php on line 75
+[31-Jan-2020 03:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/caworksi/public_html/krooki/application/modules/admin/views/ads/edit_sidebar_content.php on line 73
+[31-Jan-2020 04:48:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caworksi/public_html/krooki/application/modules/admin/views/amenities/add.php on line 211
+[31-Jan-2020 22:32:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 423
+[31-Jan-2020 22:32:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 423
+[31-Jan-2020 22:34:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 423
+[31-Jan-2020 22:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 423
+[31-Jan-2020 22:34:32 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 423
+[31-Jan-2020 22:34:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 423
+[31-Jan-2020 22:38:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 386
+[31-Jan-2020 22:38:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 386
+[31-Jan-2020 22:38:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 386
+[31-Jan-2020 22:38:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 424
+[01-Feb-2020 01:47:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 939
+[03-Feb-2020 00:25:29 America/Chicago] PHP Fatal error:  Call to undefined function json_deode() in /home/caworksi/public_html/krooki/application/modules/admin/models/Pages_model.php on line 111
+[03-Feb-2020 02:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caworksi/public_html/krooki/application/models/api/User_model.php on line 26
+[03-Feb-2020 05:52:43 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/caworksi/public_html/krooki/system/core/Model.php on line 73
+[03-Feb-2020 06:02:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/caworksi/public_html/krooki/application/modules/home/controllers/Home.php on line 22
+[05-Feb-2020 03:45:36 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 274
+[05-Feb-2020 03:51:40 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 274
+[05-Feb-2020 03:53:52 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 274
+[05-Feb-2020 21:56:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1057
+[05-Feb-2020 21:57:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1057
+[06-Feb-2020 00:00:48 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1122
+[06-Feb-2020 05:16:50 America/Chicago] PHP Fatal error:  Call to a member function initialize() on null in /home/caworksi/public_html/krooki/application/modules/home/controllers/Home.php on line 30
+[06-Feb-2020 05:16:50 America/Chicago] PHP Fatal error:  Call to a member function initialize() on null in /home/caworksi/public_html/krooki/application/modules/home/controllers/Home.php on line 30
+[06-Feb-2020 05:17:20 America/Chicago] PHP Fatal error:  Call to undefined method User_model::fetch_users_by_id() in /home/caworksi/public_html/krooki/application/modules/home/models/Home_model.php on line 307
+[06-Feb-2020 05:17:26 America/Chicago] PHP Fatal error:  Call to undefined method User_model::fetch_users_by_id() in /home/caworksi/public_html/krooki/application/modules/home/models/Home_model.php on line 307
+[06-Feb-2020 05:18:05 America/Chicago] PHP Fatal error:  Call to undefined method User_model::fetch_users_by_id() in /home/caworksi/public_html/krooki/application/modules/home/models/Home_model.php on line 307
+[06-Feb-2020 05:19:40 America/Chicago] PHP Fatal error:  Call to undefined method User_model::fetch_users_by_id() in /home/caworksi/public_html/krooki/application/modules/home/models/Home_model.php on line 307
+[06-Feb-2020 05:23:57 America/Chicago] PHP Fatal error:  Call to undefined method User_model::fetch_users_by_id() in /home/caworksi/public_html/krooki/application/modules/home/models/Home_model.php on line 310
+[06-Feb-2020 22:53:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$max_price' (T_VARIABLE) in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1233
+[07-Feb-2020 04:18:19 America/Chicago] PHP Fatal error:  Call to undefined method CI_Input::type() in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1355
+[07-Feb-2020 04:19:21 America/Chicago] PHP Fatal error:  Call to undefined method CI_Input::type() in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1355
+[07-Feb-2020 04:19:32 America/Chicago] PHP Fatal error:  Call to undefined method CI_Input::type() in /home/caworksi/public_html/krooki/application/models/api/Property_model.php on line 1355
+[07-Feb-2020 23:05:12 America/Chicago] PHP Fatal error:  Call to a member function initialize() on null in /home/caworksi/public_html/krooki/application/modules/property/controllers/Property.php on line 861
+[07-Feb-2020 23:07:39 America/Chicago] PHP Fatal error:  Call to a member function initialize() on null in /home/caworksi/public_html/krooki/application/modules/property/controllers/Property.php on line 861
+[08-Feb-2020 00:56:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/caworksi/public_html/krooki/application/modules/property/models/Property_model.php on line 483
+[10-Feb-2020 02:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/caworksi/public_html/krooki/application/modules/admin/views/property/edit.php on line 152
+[10-Feb-2020 02:41:25 America/Chicago] PHP Fatal error:  Call to undefined method Home_model::fetch_particular_inline_ad() in /home/caworksi/public_html/krooki/application/modules/home/controllers/Home.php on line 247
+[10-Feb-2020 04:32:52 America/Chicago] PHP Fatal error:  Call to undefined method Home_model::fetch_particular_inline_ad() in /home/caworksi/public_html/krooki/application/modules/home/controllers/Home.php on line 247
+[10-Feb-2020 07:28:05 America/Chicago] PHP Fatal error:  Cannot redeclare Ads_model::fetch_ads() in /home/caworksi/public_html/krooki/application/models/api/Ads_model.php on line 44
+[09-Apr-2020 05:47:22 UTC] PHP Fatal error:  Cannot redeclare Cart::fetch_cart_post() in /home/yourjob/public_html/shoecare/application/controllers/api/Cart.php on line 105
+[10-Apr-2020 12:35:26 UTC] PHP Fatal error:  Cannot redeclare Order::insert_order_post() in /home/yourjob/public_html/shoecare/application/controllers/api/Order.php on line 71
+[13-Apr-2020 05:59:01 UTC] PHP Fatal error:  Cannot redeclare Home::index() in /home/yourjob/public_html/shoecare/application/modules/home/controllers/Home.php on line 26
+[14-Apr-2020 04:47:58 UTC] PHP Fatal error:  Cannot redeclare Home::__construct() in /home/yourjob/public_html/shoecare/application/modules/home/controllers/Home.php on line 20
+[17-Apr-2020 10:12:15 UTC] PHP Fatal error:  Cannot redeclare Product::delete() in /home/yourjob/public_html/shoecare/application/modules/admin/controllers/Product.php on line 271
